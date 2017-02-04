@@ -1,8 +1,8 @@
-name: Publish Document
+name: Document
 title:
 account: rpubs
 server: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/243272/a38df24e0acc428e8b0ece816da90147
 bundleId: https://api.rpubs.com/api/v1/document/243272/a38df24e0acc428e8b0ece816da90147
-url: http://rpubs.com/fmushtaq/243272
-when: 1484934037.22681
+url: http://rpubs.com/publish/claim/243272/0875c34ea4324d90bb2e4a7c832ee8cf
+when: 1484933948.13264
